@@ -1,0 +1,47 @@
+body {
+  background: #ccccff;
+  font-family: helvetica;
+}
+
+#main {
+  border-radius: 10px;
+  background: #C7C4EB;
+  display: block;
+  text-align: center;
+  margin: 0 5% 0 5%;
+}
+
+#img-div{
+  background: #B5CFCF;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#img-caption{
+  margin: 5px 0 0 0;
+  padding: 5px;
+  border-radius: 10px;
+  background: #C9F5F5;
+}
+
+img {
+  width: 30%;
+  height: auto;
+}
+
+p {
+  text-align: justify;
+  margin: 5px 15px 5px 15px;
+}
+
+#praise {
+  margin: 0 0 20px 0;
+}
+
+#title {
+  background: #C7E1EB;
+  border-radius: 10px;
+  padding: 5px 0 5px 0;
+  margin: 10px 0 10px 0;
+  width: auto;
+}
